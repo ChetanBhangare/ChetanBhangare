@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Artificial Intelligence,Statistics,DataScience,Chess.**
 
-- 📫 How to reach me **chetanb2831@gmail.com**
+- 📫 How to reach me **cbhangare@wpi.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
