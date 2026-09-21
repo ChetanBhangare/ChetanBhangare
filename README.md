@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Chetan Bhangare, Financial and Data Analyst. FP&A, investment analytics, SQL, Python, Power BI. Open to work." width="100%"/>
+<img src="hero.svg" alt="Chetan Bhangare, Financial and Data Analyst. FP&A, investment analytics, SQL, Python, Power BI. Open to work." width="100%"/>
 
 <br/>
 
@@ -11,9 +11,9 @@
 
 <br/>
 
-<img src="assets/ticker.svg" alt="Ticker tape of project metrics: Walmart FY27 estimate $740.6B net sales, $34.5B operating income, $15.1B free cash flow; 3.5M+ transactions narrowed to 404 flagged; 33 ETFs and 88K+ rows; 91 backend tests; 90+ hours automated per month; 50K+ records cleaned; about 30% fewer manual scope reviews" width="100%"/>
+<img src="ticker.svg" alt="Ticker tape of project metrics: Walmart FY27 estimate $740.6B net sales, $34.5B operating income, $15.1B free cash flow; 3.5M+ transactions narrowed to 404 flagged; 33 ETFs and 88K+ rows; 91 backend tests; 90+ hours automated per month; 50K+ records cleaned; about 30% fewer manual scope reviews" width="100%"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## About
 
@@ -23,11 +23,11 @@ I'm currently an **AI & Financial Analyst at Circa**, where I analyze and suppor
 
 **Open to:** Financial Analyst · FP&A · Data Analyst · Portfolio & Investment Analytics
 
-<img src="assets/terminal.svg" alt="Terminal-style profile monitor. The candlestick chart is illustrative simulated data. Watchlist of real project metrics: PortfolioIQ 88K+ daily records across 33 ETFs, transit fraud 404 flagged events out of 3.5M+ transactions, Walmart FP&A model FY27E net sales of $740.6B, 90+ hours of manual work automated per month, about 30% fewer manual scope reviews at Circa." width="100%"/>
+<img src="terminal.svg" alt="Terminal-style profile monitor. The candlestick chart is illustrative simulated data. Watchlist of real project metrics: PortfolioIQ 88K+ daily records across 33 ETFs, transit fraud 404 flagged events out of 3.5M+ transactions, Walmart FP&A model FY27E net sales of $740.6B, 90+ hours of manual work automated per month, about 30% fewer manual scope reviews at Circa." width="100%"/>
 
 <sub>The candlestick chart is illustrative simulated data. The watchlist shows real project metrics.</sub>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## What I Do
 
@@ -62,7 +62,7 @@ RAG pipelines (LangChain, GPT-4, Pinecone) and n8n / Flowise / Make.com workflow
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Featured Projects
 
@@ -103,17 +103,17 @@ Ensemble anomaly detection in SymetryML (ECOD, HBA, REPCA, OOSPCA) over 3.5M+ tr
 - **DRL portfolio optimization:** A2C, PPO, and TD3 agents trained on 10+ years of market data with multithreaded backtesting. Backtests showed up to 18% cumulative excess return over benchmark indices.
 - **Omega-ratio risk analytics:** an engine evaluating 1,000+ ETF allocations across 11 downside thresholds, with an Omega-efficient frontier over a 4-year horizon.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Core Skills
 
-<img src="assets/marquee.svg" alt="Tools: Python, SQL, Excel, Power BI, Tableau, Pandas, Snowflake, BigQuery, AWS, FastAPI, scikit-learn, XGBoost, LangChain, QuickBooks, Stripe" width="100%"/>
+<img src="marquee.svg" alt="Tools: Python, SQL, Excel, Power BI, Tableau, Pandas, Snowflake, BigQuery, AWS, FastAPI, scikit-learn, XGBoost, LangChain, QuickBooks, Stripe" width="100%"/>
 
 **Tools:** Python · SQL · Excel · Power BI · Tableau · Pandas · Snowflake · BigQuery · AWS · FastAPI · scikit-learn · XGBoost · LangChain · QuickBooks · Stripe
 
 **Finance methods:** FP&A · Forecasting · Variance Analysis · Budget vs. Actual · Scenario Modeling · Portfolio Analytics · Risk Analytics
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Professional Experience
 
@@ -126,7 +126,7 @@ Ensemble anomaly detection in SymetryML (ECOD, HBA, REPCA, OOSPCA) over 3.5M+ tr
 | Graduate Assistant, FinTech Systems | **WPI** | Aug – Dec 2025 | Hyperledger Fabric test networks, 10+ validated transaction workflows |
 | Financial Data Analyst | **HDPM Magical Infotech** | Sep 2021 – May 2023 | 50K+ record reconciliation, Power BI / Tableau KPI dashboards, RFM segmentation, NLP sentiment (76% → 85%) |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## More Projects
 
@@ -137,7 +137,7 @@ Ensemble anomaly detection in SymetryML (ECOD, HBA, REPCA, OOSPCA) over 3.5M+ tr
 | [Online Retail Customer Segmentation](https://github.com/ChetanBhangare/Online-retail-customer-segmentation) | RFM analysis and K-Means clustering with silhouette validation |
 | [Credit Card Default Prediction](https://github.com/ChetanBhangare/Credit-card-default-prediction) | Supervised ML classification for credit risk (notebooks) |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Education & Certifications
 
@@ -149,7 +149,7 @@ Bloomberg Market Concepts · Google Data Analytics Professional Certificate · J
 
 <div align="center">
 
-<img src="assets/ticket.svg" alt="Order ticket. Symbol CHETAN.B, side HIRE, full-time. Roles: Financial Analyst, FP&A, Data Analyst, Investment Analytics. Worcester, MA, open to relocation. Status open." width="100%"/>
+<img src="ticket.svg" alt="Order ticket. Symbol CHETAN.B, side HIRE, full-time. Roles: Financial Analyst, FP&A, Data Analyst, Investment Analytics. Worcester, MA, open to relocation. Status open." width="100%"/>
 
 <br/>
 
