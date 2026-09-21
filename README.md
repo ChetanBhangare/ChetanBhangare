@@ -1,145 +1,119 @@
-<div align="center">
+# Chetan Bhangare
 
-<a href="https://chetanbhangare.io">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chetan%20Bhangare&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Quantitative%20Analyst%20%7C%20AI%20%26%20FinTech%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea" alt="Header"/>
-</a>
+**Financial Analyst | FP&A · Portfolio & Investment Analytics · AI-Enabled Finance Automation**
 
-<img src="https://komarev.com/ghpvc/?username=chetanbhangare&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/chetanbhangare-ai-ml/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:cbhangare@wpi.edu">
-  <img src="https://img.shields.io/badge/Email-cbhangare@wpi.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+M.S. Financial Technology, Worcester Polytechnic Institute (2026) · Worcester, MA · Open to relocation
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/chetanbhangare-ai-ml/) · [Email](mailto:cbhangare@wpi.edu)
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a **Quantitative Data & Financial Analyst** and **Generative AI Developer** based in Worcester, MA — currently completing my **M.S. in Financial Technology at Worcester Polytechnic Institute (WPI)** and actively seeking full-time roles in **Data Analytics, Quantitative Finance, and AI-driven FinTech**.
+I build the models, pipelines, and dashboards that finance teams use to make decisions.
 
-My work sits at the intersection of **machine learning, financial modeling, and intelligent automation** — building systems that turn complex data into measurable outcomes.
+Right now I'm an **AI & Financial Analyst at Circa**, where I manage revenue, invoicing, and accounts receivable across 100+ active customer accounts a month (Stripe + QuickBooks) and connect estimating, scheduling, and billing data into project-level financial reporting. Before that: fraud analytics on 3.5M+ transit payments, cloud portfolio analytics, and LLM/RAG automation.
 
-- 🏦 **Quantitative Research** — Built deep reinforcement learning (DRL) portfolio optimization using A2C, PPO & TD3; achieved up to **18% benchmark outperformance** over S&P 500 & DJIA
-- 📊 **Financial Analytics** — Omega-based risk platforms, backtesting engines, Sharpe/drawdown analysis, ETF allocation modeling
-- 🤖 **Generative AI & Automation** — RAG pipelines (LangChain + GPT-4 + Pinecone), n8n/Flowise workflows, CRM automation, AI chatbots
-- 📈 **Business Intelligence** — SQL-driven dashboards in Power BI, predictive modeling, A/B testing, KPI frameworks
+I'm looking for full-time **Financial Analyst, FP&A, Portfolio Analytics, and Investment Data Analytics** roles.
 
 ---
 
-## 🚀 What I'm Working On
+## Selected Results
 
-- 🔭 **Generative AI Developer @ AGI Beacon** — Building end-to-end AI automation pipelines (RAG, LLM workflows, vector search)
-- 🎓 **M.S. Financial Technology @ WPI** — Graduating May 2026
-- 🌱 Currently deepening expertise in **agentic AI systems**, **quantitative signal engineering**, and **LLM-powered financial tools**
-- 💼 **Open to full-time roles** in Data Analytics · Quantitative Research · Financial Analytics · AI/FinTech
-
----
-
-## 🛠️ Technical Skills
-
-### 📐 Quantitative Finance & Analytics
-![Portfolio Optimization](https://img.shields.io/badge/Portfolio%20Optimization-2c5364?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-203a43?style=flat-square)
-![Risk Analytics](https://img.shields.io/badge/Risk%20Analytics-0f2027?style=flat-square)
-![Backtesting](https://img.shields.io/badge/Backtesting-2c5364?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time%20Series%20Forecasting-203a43?style=flat-square)
-![Factor Modeling](https://img.shields.io/badge/Factor%20Modeling-0f2027?style=flat-square)
-
-### 🧑‍💻 Programming & Data
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  &nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
-
-### ☁️ Cloud, BI & AI Platforms
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20S3%2FRedshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+| Where | What | Result |
+|---|---|---|
+| Circa | Milestone billing (70/30, 60/40, 80/20) for projects up to 14 days; YOLOv8 estimation platform | Billing tied to project progress; ~30% fewer manual scope-review cycles |
+| Walmart FP&A model | 15-tab, 6-year driver-based model built from 10-K filings | 3 scenarios, 56 sensitivity outcomes, FY2027 forecast of $740.6B net sales |
+| PortfolioIQ | Cloud portfolio analytics platform (AWS + Vercel) | 33 ETFs, 88K+ daily records, 91 automated backend tests |
+| Transit fraud capstone | Ensemble anomaly detection on payment data | 3.5M+ transactions narrowed to 404 high-risk events |
+| AGI Beacon | Real-estate ETL and 0–100 scoring model | 50K+ records cleaned, 10K+ properties ranked, preprocessing time down 35% |
+| AGI Beacon | n8n / Flowise / Make.com automation and CRM lead routing | 90+ manual hours per month eliminated, qualified lead conversion up 15% |
 
 ---
 
-## 🏆 Key Highlights
+## Featured Projects
 
-| Area | Impact |
+### [PortfolioIQ](https://github.com/ChetanBhangare/PortfolioIQ) — Cloud Portfolio Analytics, Risk & Optimization Platform
+<!-- TODO: add live demo link here once you have the Vercel URL, e.g. "**[Live demo](https://...)**" -->
+
+Deployed full-stack platform: `Python ETL → S3 (Parquet) → DuckDB → FastAPI on ECS/Fargate → Next.js on Vercel`
+
+- **Data layer:** 33 ETFs, 88K+ daily records (2016–2026). Incremental ingestion with a per-ticker data-quality report. Weekday refresh runs on GitHub Actions using OIDC, so no AWS keys are stored anywhere.
+- **Performance and risk:** CAGR, Sharpe, Sortino, Calmar, drawdowns, alpha/beta, tracking error, VaR/CVaR, Euler risk contributions, concentration (HHI), and historical stress windows (COVID crash, 2022 rate shock, 2023 banking stress).
+- **Optimization:** minimum variance, maximum Sharpe, constrained risk parity, and an efficient frontier with turnover constraints.
+- **Market regimes:** bull/bear × low/high-volatility classification with conditional portfolio performance.
+- **Engineering:** 91 deterministic tests, documented methodology, and an explicit limitations section.
+
+`Python` `FastAPI` `DuckDB` `AWS S3` `ECS/Fargate` `GitHub Actions` `Next.js` `Plotly`
+
+### Walmart Strategic FP&A & Financial Performance Model
+<!-- TODO: add repo link once the workbook + README are public -->
+
+Driver-based model (FY2024A–FY2029F) covering Walmart U.S., International, and Sam's Club, built from 10-K filings. Includes 3 operating scenarios and 56 two-variable sensitivity outcomes across revenue growth, margins, operating income, and free cash flow. A quarterly Latest Estimate and Budget vs. Actual framework covers 11 line items and quantifies a $3.9B FY2026–FY2027 operating-income increase from volume, gross margin, membership growth, and SG&A leverage. The forecast is benchmarked against Walmart's published sales and adjusted operating-income growth guidance.
+
+`Excel` `Driver-based forecasting` `Scenario & sensitivity analysis` `Budget vs. Actual`
+
+### Fraud Detection in Transit Payments (WPI capstone with Gemsen)
+<!-- TODO: link a methodology write-up (no proprietary data) if you can publish one -->
+
+Ensemble anomaly detection in SymetryML (ECOD, HBA, REPCA, OOSPCA) over 3.5M+ transit payment transactions, using 20+ behavioral and temporal risk indicators. Covered three fraud patterns: multiple cards per device, ZIP-code probing, and multiple devices per card. Consensus scoring reduced the review population to 404 high-risk events, with 100% model agreement on 54 ZIP-probing cases. Selected for a capstone poster presentation.
+
+`Anomaly detection` `Ensemble scoring` `Python` `SymetryML`
+
+### Deep Reinforcement Learning Portfolio Optimization
+<!-- TODO: link repo. Add out-of-sample period, benchmark, and transaction-cost assumptions to its README. -->
+
+A2C, PPO, and TD3 agents trained on 10+ years of market data with multithreaded backtesting and risk-adjusted performance analysis. Backtests showed up to 18% cumulative excess return over benchmark indices.
+
+`Python` `Reinforcement learning` `Backtesting`
+
+### Omega-Ratio Portfolio Risk Analytics
+<!-- TODO: link repo -->
+
+Risk engine evaluating 1,000+ ETF allocations across 11 downside thresholds, with an Omega-efficient frontier over a 4-year horizon and asymmetric (downside) risk metrics.
+
+`Python` `Omega ratio` `Downside risk`
+
+---
+
+## More Projects
+
+| Project | Focus |
 |---|---|
-| 📈 DRL Portfolio Optimization | **18% outperformance** over S&P 500 & DJIA using A2C, PPO, TD3 |
-| 🏠 Real Estate AI Pipeline | Scored **10K+ parcels** from 50K+ records — 40% faster preprocessing |
-| 🤖 RAG/AI Automation | Eliminated **90+ manual hours/month**; +15% lead conversion |
-| 📊 Financial BI Analytics | Supported **20% revenue growth** via SQL + Power BI dashboards |
-| 🧠 NLP Sentiment Analysis | Classification accuracy improved from **76% → 85%** |
-| 💼 Salary Prediction Model | **92% accuracy** (XGBoost) with SHAP explainability for HR stakeholders |
+| [Employee Salary Prediction](https://github.com/ChetanBhangare/Employee-Salary-Prediction-and-Optimization-Using-Predictive-Analytics) | Regression and classification on a 1,009-employee HR dataset, with a Power BI workforce dashboard |
+| [Credit Card Default Prediction](https://github.com/ChetanBhangare/Credit-card-default-prediction) | Supervised ML classification (notebooks) |
+| [Online Retail Customer Segmentation](https://github.com/ChetanBhangare/Online-retail-customer-segmentation) | RFM analysis and K-Means clustering with silhouette validation |
+| [Seoul Bike Sharing Demand](https://github.com/ChetanBhangare/Bike-sharing-demand-prediction) | Demand forecasting with Random Forest, Gradient Boosting, and XGBoost |
+| [Hotel Booking EDA](https://github.com/ChetanBhangare/EDA-hotel-booking-analysis) | Exploratory analysis of booking behavior |
 
 ---
 
-## 📂 Featured Projects
+## Skills
 
-### 🔬 [DRL Portfolio Optimization Framework](https://github.com/chetanbhangare)
-> Deep Reinforcement Learning (A2C, PPO, TD3) applied to 10+ years of DJIA data. Achieved up to 18% cumulative excess returns over benchmark indices with multithreaded backtesting and risk-adjusted performance analysis.
+| Area | Tools & methods |
+|---|---|
+| **FP&A & Finance** | Driver-based modeling, budgeting & forecasting, variance and Budget vs. Actual analysis, scenario and sensitivity analysis, KPI reporting, revenue and AR/collections tracking, milestone billing |
+| **Portfolio & Risk** | Performance and benchmark analysis, attribution, VaR/CVaR, Sharpe/Sortino/Calmar, drawdown analysis, portfolio optimization, stress testing, Omega ratio |
+| **Data & Programming** | Python (pandas, NumPy, scikit-learn, FastAPI), SQL, advanced Excel (pivot tables, dynamic formulas, VBA) |
+| **BI & Reporting** | Power BI, Tableau, Excel dashboards |
+| **Cloud & Automation** | AWS (S3, ECS/Fargate), Snowflake, BigQuery, GitHub Actions, Docker, Next.js, n8n, Flowise, Make.com, LangChain, Pinecone, Stripe, QuickBooks |
 
-### 📊 [Omega-Based Portfolio Risk Analytics Platform](https://github.com/chetanbhangare)
-> Quantitative risk engine evaluating 1,000+ ETF allocations across 11 downside thresholds. Constructed Omega-efficient frontier with 4-year historical horizon and asymmetric risk metrics.
-
-### 🦠 [COVID-19 Database Insights with SQL](https://github.com/chetanbhangare)
-> Analyzed 1M+ records across 10+ countries using advanced SQL (CTEs, window functions, joins). Improved reporting efficiency by 20% and informed vaccination distribution strategies.
-
-### 💰 [Employee Salary Prediction & Optimization](https://github.com/chetanbhangare)
-> XGBoost + decision tree ensemble on 100K+ compensation records. 92% accuracy, SHAP explainability, and Power BI dashboards for HR/finance stakeholders.
+**Certifications:** Bloomberg Market Concepts · J.P. Morgan Investment Banking Simulation (Forage) · Goldman Sachs Controllers Simulation (Forage) · Google Data Analytics
 
 ---
 
-## 📊 GitHub Stats
+## Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetanbhangare&show_icons=true&theme=dark&bg_color=0f2027&title_color=a8d8ea&icon_color=2c5364&border_color=2c5364" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanbhangare&layout=compact&theme=dark&bg_color=0f2027&title_color=a8d8ea&border_color=2c5364" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanbhangare&theme=dark&background=0f2027&ring=2c5364&fire=a8d8ea&currStreakLabel=a8d8ea&border=2c5364" alt="GitHub Streak"/>
-</p>
+- **Circa** — AI & Financial Analyst (Jun 2026 – Present)
+- **Gemsen** — Fraud Risk Analyst, capstone (Jan – May 2026)
+- **AGI Beacon** — Generative AI Developer (Jan – May 2026); AI Data Analyst (Jun – Aug 2025)
+- **Worcester Polytechnic Institute** — Graduate Assistant, FinTech Systems (Aug – Dec 2025)
+- **HDPM Magical Infotech** — Financial Data Analyst (Sep 2021 – May 2023)
 
 ---
 
-## 📬 Let's Connect
+## Get in Touch
 
-I'm actively looking for **full-time opportunities** in Data Analytics, Financial Analytics, Quantitative Research, and AI/FinTech roles. Let's talk!
+Open to full-time roles in Financial Analysis, FP&A, Portfolio Analytics, and Investment Data Analytics.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetan-bhangare/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Bhangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:cbhangare@wpi.edu">
-    <img src="https://img.shields.io/badge/Email-cbhangare@wpi.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/chetanbhangare-ai-ml/) · [cbhangare@wpi.edu](mailto:cbhangare@wpi.edu)
