@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="Tools: Python, SQL, Excel, Power BI, Tableau, Pandas, Snowflake, BigQuery, AWS, FastAPI, scikit-learn, XGBoost, LangChain, QuickBooks, Stripe" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2OTY0MGFlZC0wNDcyLTRiMTgtOWUwNS0yYjg2N2ZiMDlkMGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMHtvsWzAvS08FScFAN1ZNgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiOTI2ZGJiNi1hMGU3LTQwYmEtOGI2YS0wMGU5NDhkZjAzYmRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoILY6Q5NLB7/+PYP+7Meb/QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg+Wxzojxkr2oFjXzlK9lPjkRrtN/MXdOrfmF9GhYWJ2OkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOBnliwxEXYuMUFaL9G3fJsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIPseEPK1k+IHsYMGb9YaNL8LfzFqZhqD9oEwJZnMtCRDZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQE8Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjY5NjQwYWVkLTA0NzItNGIxOC05ZTA1LTJiODY3ZmIwOWQwYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjRjZWQ1OGNlLTlmNmYtNDE0NC04NzE5LTVjYWMxYzU5ZDY2ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD5bHOiPGSvagWNfOUr2U+ORGu038xd06t+YX0aFhYnY6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggclQlaUUcdJM2oqEnFAEpS7t8O2LEP6zrsSCiy6uerU+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0Y3Jp+tn9Rs0OFM8TKzbGrWzagB84anCz05oscqkz+10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKjRvkG/XurDEbeeLwrMKyS390rlvPj7yMWDnZnTSk+7+2zuBsuShxicBCwa/hOVMnZaKA+dvVxvoYVXauQXrGc=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000"/><stop offset="0.07" stop-color="#fff"/><stop offset="0.93" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="mk"><rect width="1000" height="64" fill="url(#fade)"/></mask>
+  </defs>
+  <rect width="1000" height="64" rx="14" fill="#0b1a22"/>
+  <g mask="url(#mk)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1953 0" dur="51s" repeatCount="indefinite"/>
+      <g>
+    <g transform="translate(18,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5b9bd5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Python</text>
+    </g>
+    <g transform="translate(139,12)">
+      <rect width="80" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5aa9d6"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">SQL</text>
+    </g>
+    <g transform="translate(233,12)">
+      <rect width="98" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#21a366"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Excel</text>
+    </g>
+    <g transform="translate(345,12)">
+      <rect width="124" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#F2C811"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Power BI</text>
+    </g>
+    <g transform="translate(483,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#E97627"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Tableau</text>
+    </g>
+    <g transform="translate(613,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#8b7df6"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Pandas</text>
+    </g>
+    <g transform="translate(734,12)">
+      <rect width="133" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#29B5E8"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Snowflake</text>
+    </g>
+    <g transform="translate(881,12)">
+      <rect width="124" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#4285F4"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">BigQuery</text>
+    </g>
+    <g transform="translate(1019,12)">
+      <rect width="80" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#FF9900"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">AWS</text>
+    </g>
+    <g transform="translate(1113,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#1fb5a5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">FastAPI</text>
+    </g>
+    <g transform="translate(1243,12)">
+      <rect width="160" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#F7931E"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">scikit-learn</text>
+    </g>
+    <g transform="translate(1417,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5b9bd5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">XGBoost</text>
+    </g>
+    <g transform="translate(1547,12)">
+      <rect width="133" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#3ddc97"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">LangChain</text>
+    </g>
+    <g transform="translate(1694,12)">
+      <rect width="142" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#2CA01C"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">QuickBooks</text>
+    </g>
+    <g transform="translate(1850,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#8a84ff"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Stripe</text>
+    </g>
+      </g>
+      <g transform="translate(1953,0)">
+    <g transform="translate(18,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5b9bd5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Python</text>
+    </g>
+    <g transform="translate(139,12)">
+      <rect width="80" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5aa9d6"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">SQL</text>
+    </g>
+    <g transform="translate(233,12)">
+      <rect width="98" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#21a366"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Excel</text>
+    </g>
+    <g transform="translate(345,12)">
+      <rect width="124" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#F2C811"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Power BI</text>
+    </g>
+    <g transform="translate(483,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#E97627"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Tableau</text>
+    </g>
+    <g transform="translate(613,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#8b7df6"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Pandas</text>
+    </g>
+    <g transform="translate(734,12)">
+      <rect width="133" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#29B5E8"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Snowflake</text>
+    </g>
+    <g transform="translate(881,12)">
+      <rect width="124" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#4285F4"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">BigQuery</text>
+    </g>
+    <g transform="translate(1019,12)">
+      <rect width="80" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#FF9900"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">AWS</text>
+    </g>
+    <g transform="translate(1113,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#1fb5a5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">FastAPI</text>
+    </g>
+    <g transform="translate(1243,12)">
+      <rect width="160" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#F7931E"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">scikit-learn</text>
+    </g>
+    <g transform="translate(1417,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5b9bd5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">XGBoost</text>
+    </g>
+    <g transform="translate(1547,12)">
+      <rect width="133" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#3ddc97"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">LangChain</text>
+    </g>
+    <g transform="translate(1694,12)">
+      <rect width="142" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#2CA01C"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">QuickBooks</text>
+    </g>
+    <g transform="translate(1850,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#8a84ff"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Stripe</text>
+    </g>
+      </g>
+      <g transform="translate(3906,0)">
+    <g transform="translate(18,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5b9bd5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Python</text>
+    </g>
+    <g transform="translate(139,12)">
+      <rect width="80" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5aa9d6"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">SQL</text>
+    </g>
+    <g transform="translate(233,12)">
+      <rect width="98" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#21a366"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Excel</text>
+    </g>
+    <g transform="translate(345,12)">
+      <rect width="124" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#F2C811"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Power BI</text>
+    </g>
+    <g transform="translate(483,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#E97627"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Tableau</text>
+    </g>
+    <g transform="translate(613,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#8b7df6"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Pandas</text>
+    </g>
+    <g transform="translate(734,12)">
+      <rect width="133" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#29B5E8"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Snowflake</text>
+    </g>
+    <g transform="translate(881,12)">
+      <rect width="124" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#4285F4"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">BigQuery</text>
+    </g>
+    <g transform="translate(1019,12)">
+      <rect width="80" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#FF9900"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">AWS</text>
+    </g>
+    <g transform="translate(1113,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#1fb5a5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">FastAPI</text>
+    </g>
+    <g transform="translate(1243,12)">
+      <rect width="160" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#F7931E"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">scikit-learn</text>
+    </g>
+    <g transform="translate(1417,12)">
+      <rect width="116" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#5b9bd5"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">XGBoost</text>
+    </g>
+    <g transform="translate(1547,12)">
+      <rect width="133" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#3ddc97"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">LangChain</text>
+    </g>
+    <g transform="translate(1694,12)">
+      <rect width="142" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#2CA01C"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">QuickBooks</text>
+    </g>
+    <g transform="translate(1850,12)">
+      <rect width="107" height="38" rx="19" fill="#ffffff" fill-opacity="0.06" stroke="#a8d8ea" stroke-opacity="0.28"/>
+      <circle cx="20" cy="19" r="5" fill="#8a84ff"/>
+      <text x="34" y="24" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">Stripe</text>
+    </g>
+      </g>
+    </g>
+  </g>
+</svg>
