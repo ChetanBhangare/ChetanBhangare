@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="105" viewBox="0 0 250 105" role="img" aria-label="J.P. Morgan brand inspired logo card">
+  <rect width="250" height="105" rx="10" fill="#ffffff"/>
+  <rect x="1" y="1" width="248" height="103" rx="9" fill="none" stroke="#d5e0ec"/>
+  <g fill="#0868b8" transform="translate(22 24)">
+    <path d="M20 0h21l15 15H35V9H20z"/>
+    <path d="M56 15v22L41 52V31h9V15z"/>
+    <path d="M41 52H20L5 37h21v9h15z"/>
+    <path d="M5 37V15L20 0v21h-9v16z"/>
+  </g>
+  <text x="89" y="62" fill="#142b47" font-family="Georgia,'Times New Roman',serif" font-size="24" font-weight="700" letter-spacing="-1">J.P. Morgan</text>
+  <rect x="89" y="73" width="137" height="2.5" rx="1.25" fill="#0868b8"/>
+</svg>

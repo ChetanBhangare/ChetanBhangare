@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="105" viewBox="0 0 250 105" role="img" aria-label="Bloomberg brand inspired logo card">
+  <rect width="250" height="105" rx="10" fill="#ffffff"/>
+  <rect x="1" y="1" width="248" height="103" rx="9" fill="none" stroke="#d6d6d6"/>
+  <text x="16" y="65" fill="#090909" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="-2.1">Bloomberg</text>
+  <rect x="16" y="78" width="174" height="4" rx="2" fill="#101010"/>
+  <rect x="197" y="78" width="36" height="4" rx="2" fill="#ff9d00"/>
+</svg>
