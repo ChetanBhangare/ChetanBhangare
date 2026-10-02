@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="54" viewBox="0 0 1000 54" role="img" aria-labelledby="title desc">
+  <title id="title">Finance project ticker</title>
+  <desc id="desc">FAB 50K plus validated records; AGI 10K plus properties ranked; Walmart FY2027 model 15.1 billion dollars free cash flow; PortfolioIQ 80K plus market observations; Circa 100 plus accounts.</desc>
+  <rect x="1" y="1" width="998" height="52" rx="8" fill="#080d12" stroke="#1f3340"/>
+  <g font-family="Consolas,Menlo,monospace" font-size="13" font-weight="700">
+    <text x="20" y="33" fill="#f2b134">FAB</text><text x="61" y="33" fill="#f5f9fc">50K+ RECORDS</text>
+    <text x="216" y="33" fill="#3ddc97">AGI</text><text x="257" y="33" fill="#f5f9fc">10K+ PROPERTIES</text>
+    <text x="452" y="33" fill="#f2b134">WMT FY27E</text><text x="553" y="33" fill="#f5f9fc">$15.1B FCF</text>
+    <text x="717" y="33" fill="#a8d8ea">PIQ</text><text x="757" y="33" fill="#f5f9fc">80K+ OBS</text>
+    <text x="889" y="33" fill="#3ddc97">CIR</text><text x="928" y="33" fill="#f5f9fc">100+</text>
+  </g>
+  <g stroke="#1f3340"><line x1="198" y1="12" x2="198" y2="42"/><line x1="433" y1="12" x2="433" y2="42"/><line x1="698" y1="12" x2="698" y2="42"/><line x1="871" y1="12" x2="871" y2="42"/></g>
+</svg>
