@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="245" viewBox="0 0 1000 245" role="img" aria-label="Three finance and analytics focus areas: banking FP&amp;A, investment data, and portfolio analytics">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#0b1721"/><stop offset="1" stop-color="#081119"/></linearGradient>
+    <linearGradient id="g1" x2="1" y2="1"><stop stop-color="#27daa2" stop-opacity=".18"/><stop offset="1" stop-color="#27daa2" stop-opacity="0"/></linearGradient>
+    <linearGradient id="g2" x2="1" y2="1"><stop stop-color="#5bb8eb" stop-opacity=".18"/><stop offset="1" stop-color="#5bb8eb" stop-opacity="0"/></linearGradient>
+    <linearGradient id="g3" x2="1" y2="1"><stop stop-color="#f6b83e" stop-opacity=".18"/><stop offset="1" stop-color="#f6b83e" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1000" height="245" rx="14" fill="#071018"/>
+  <rect x="16" y="15" width="312" height="214" rx="14" fill="url(#bg)" stroke="#245142"/>
+  <rect x="344" y="15" width="312" height="214" rx="14" fill="url(#bg)" stroke="#284a63"/>
+  <rect x="672" y="15" width="312" height="214" rx="14" fill="url(#bg)" stroke="#69502a"/>
+  <path d="M17 185h310v43H17z" fill="url(#g1)"/><path d="M345 185h310v43H345z" fill="url(#g2)"/><path d="M673 185h310v43H673z" fill="url(#g3)"/>
+
+  <!-- FP&A: ledger grid and rising variance bars -->
+  <rect x="38" y="34" width="54" height="54" rx="12" fill="#0f3b32" stroke="#247d63"/>
+  <path d="M50 73V61m11 12V52m11 21V58m11 15V45" stroke="#36dea5" stroke-width="5" stroke-linecap="round"/>
+  <path d="M48 78h37" stroke="#8bceb5" stroke-width="2"/>
+  <text x="107" y="56" fill="#e5f3ef" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Banking FP&amp;A</text>
+  <text x="38" y="119" fill="#abc3c5" font-family="Arial,Helvetica,sans-serif" font-size="16">Planning • budget vs. actual</text>
+  <text x="38" y="144" fill="#abc3c5" font-family="Arial,Helvetica,sans-serif" font-size="16">P&amp;L drivers • reconciliations</text>
+  <text x="38" y="169" fill="#abc3c5" font-family="Arial,Helvetica,sans-serif" font-size="16">Management reporting</text>
+  <path d="M38 206h55l22-8 19 4 24-17 23 5 20-11h100" fill="none" stroke="#2ed6a0" stroke-width="2" opacity=".7"/>
+
+  <!-- Investment data: connected records and funnel -->
+  <rect x="366" y="34" width="54" height="54" rx="12" fill="#11354b" stroke="#36769d"/>
+  <path d="M379 49h29l-11 14v9l-7 4V63z" fill="none" stroke="#64c5f2" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="379" cy="49" r="3" fill="#67cafa"/><circle cx="408" cy="49" r="3" fill="#67cafa"/>
+  <text x="435" y="56" fill="#e5f1fb" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Investment Data</text>
+  <text x="366" y="119" fill="#abc3d0" font-family="Arial,Helvetica,sans-serif" font-size="16">Python &amp; SQL pipelines</text>
+  <text x="366" y="144" fill="#abc3d0" font-family="Arial,Helvetica,sans-serif" font-size="16">Validation • property indicators</text>
+  <text x="366" y="169" fill="#abc3d0" font-family="Arial,Helvetica,sans-serif" font-size="16">Acquisition screening</text>
+  <circle cx="385" cy="202" r="4" fill="#5bb8eb"/><circle cx="418" cy="193" r="4" fill="#5bb8eb"/><circle cx="451" cy="199" r="4" fill="#5bb8eb"/><circle cx="484" cy="182" r="4" fill="#5bb8eb"/>
+  <path d="M385 202l33-9 33 6 33-17h145" fill="none" stroke="#5bb8eb" stroke-width="2" opacity=".7"/>
+
+  <!-- Portfolio analytics: allocation ring and sparkline -->
+  <rect x="694" y="34" width="54" height="54" rx="12" fill="#3b2e16" stroke="#94752d"/>
+  <circle cx="721" cy="61" r="16" fill="none" stroke="#685d3c" stroke-width="8"/>
+  <path d="M721 45a16 16 0 0 1 15 11" fill="none" stroke="#f7bd46" stroke-width="8"/>
+  <path d="M736 56a16 16 0 0 1-8 19" fill="none" stroke="#62d4b0" stroke-width="8"/>
+  <text x="763" y="56" fill="#fff0d0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Portfolio Analytics</text>
+  <text x="694" y="119" fill="#c7bdab" font-family="Arial,Helvetica,sans-serif" font-size="16">ETF performance • benchmarks</text>
+  <text x="694" y="144" fill="#c7bdab" font-family="Arial,Helvetica,sans-serif" font-size="16">Attribution • downside risk</text>
+  <text x="694" y="169" fill="#c7bdab" font-family="Arial,Helvetica,sans-serif" font-size="16">Scenarios &amp; stress tests</text>
+  <path d="M694 206h41l18-14 19 5 21-19 17 7 22-13 18 4 22-17h83" fill="none" stroke="#f5b638" stroke-width="2" opacity=".75"/>
+</svg>
