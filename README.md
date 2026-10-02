@@ -64,11 +64,11 @@ I enjoy connecting financial questions with reliable data, clear models, and use
 
 ## Certifications and Simulations
 
-| | Credential | |
+| Logo | Credential | Provider |
 |:---:|:---|:---|
-| <img src="certifications/Bloomberg-Logo.jpg" alt="Bloomberg logo" width="125"/> | **Bloomberg Market Concepts** | Bloomberg |
-| <img src="certifications/JP-Morgan-Chase-Emblem.png" alt="J.P. Morgan logo" width="125"/> | **Investment Banking Job Simulation** | J.P. Morgan · Forage |
-| <img src="certifications/Goldman_Sachs.jpg" alt="Goldman Sachs logo" width="72"/> | **Controllers Job Simulation** | Goldman Sachs · Forage |
+| <img src="Bloomberg-Logo%20(1).jpg" alt="Bloomberg logo" width="125"/> | **Bloomberg Market Concepts** | Bloomberg |
+| <img src="JP-Morgan-Chase-Emblem%20(1).png" alt="J.P. Morgan logo" width="125"/> | **Investment Banking Job Simulation** | J.P. Morgan · Forage |
+| <img src="Goldman_Sachs.jpg" alt="Goldman Sachs logo" width="72"/> | **Controllers Job Simulation** | Goldman Sachs · Forage |
 
 <img src="divider.svg" width="100%" alt=""/>
 
